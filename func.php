@@ -5,7 +5,7 @@
  * Date: 16-3-28
  * Time: 上午2:12
  */
-require_once('dbop.php');
+//require_once('dbop.php');
 function getJpData()
 {
     $handle=fopen('data.csv','rb');
